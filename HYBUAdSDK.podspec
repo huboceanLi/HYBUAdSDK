@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "HYBUAdADK"
-  spec.version      = "0.1.3"
+  spec.version      = "0.1.4"
   spec.summary      = "buadsdk"
   spec.description  = <<-DESC
   广告库
